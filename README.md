@@ -1,14 +1,12 @@
-# Project-11: Continuous Delivery & Configuration Management (Jenkins&Ansible)
-
-[*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
+Continuous Delivery & Configuration Management (Jenkins&Ansible)
 
 ![](images/Project-11.png)
 
 ## Pre-Requisities:
 
-* Jenkins server from Project-5
-* Nexus Server from Project-5
-* SonarQube server from Project-5
+* Jenkins server 
+* Nexus Server 
+* SonarQube server 
 * AWS Account
 * Git
 * GitHub Account
